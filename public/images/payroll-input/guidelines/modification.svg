@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_14813" data-name="Rectangle 14813" width="18" height="18" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_4" data-name="Mask Group 4" clip-path="url(#clip-path)">
+    <g id="download_for_offline_black_24dp">
+      <g id="Group_8938" data-name="Group 8938">
+        <rect id="Rectangle_14814" data-name="Rectangle 14814" width="18" height="18" fill="none"/>
+      </g>
+      <g id="Group_8939" data-name="Group 8939" transform="translate(1.5 1.5)">
+        <path id="Path_43534" data-name="Path 43534" d="M9,16.5A7.5,7.5,0,1,1,16.5,9,7.512,7.512,0,0,1,9,16.5Zm-.75-6v3h1.5v-3H12l-3-3-3,3Zm4.5-5.25H5.25v1.5h7.5Z" transform="translate(-1.5 -1.5)" fill="#657992"/>
+      </g>
+    </g>
+  </g>
+</svg>
