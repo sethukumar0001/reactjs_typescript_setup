@@ -1,5 +1,5 @@
 const config = {
-    api_url: 'https://uat-powerpay.ascent-online.com'
+    api_url: ''
 };
   
 export default config;
